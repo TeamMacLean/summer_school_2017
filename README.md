@@ -2,23 +2,25 @@
 This repository contains materials etc for sharing with participants of the summer school
 
 ## Course Handbook
-PDF: `summer_school_2017.pdf`
-Web: [link](teammaclean.github.io/summer_school_handbook/index.html)
+
+  * PDF: `summer_school_2017.pdf`
+  * Web: [link](teammaclean.github.io/summer_school_handbook/index.html)
 
 ## Resistance Proteins
 
 Base folder: `resistance_proteins`
-Jonathan Jones' pedagogical lecture - `resistance_pedagogical.pptx`
-Jijie Chai's Keynote lecture - `resistance_keynote.pptx`
+
+  * Jonathan Jones' pedagogical lecture - `resistance_pedagogical.pptx`
+  * Jijie Chai's Keynote lecture - `resistance_keynote.pptx`
 
 ## Genomic Resources and Bioinformatics
 
 Base folder: `bioinformatics`
-Dan MacLean's pedagogical lecture - `bioinformatics_pedagogical.pptx`
 
-Practical Session handout - `bioinformatics_handout.pdf`
-Practical Session web: [link](danmaclean.github.io/summer_school_bioinfo/index.html)
-Ram Krishna's Galaxy Intro - `galaxy_intro.pptx`
+  * Dan MacLean's pedagogical lecture - `bioinformatics_pedagogical.pptx`
+  * Practical Session handout - `bioinformatics_handout.pdf`
+  * Practical Session web: [link](danmaclean.github.io/summer_school_bioinfo/index.html)
+  * Ram Krishna's Galaxy Intro - `galaxy_intro.pptx`
 
 ## Effectors and Plant Immunity
 
