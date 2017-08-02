@@ -6,6 +6,13 @@ This repository contains materials etc for sharing with participants of the summ
   * PDF: `summer_school_2017.pdf`
   * Web: [link](teammaclean.github.io/summer_school_handbook/index.html)
 
+
+## Introduction
+
+Base folder: `intro`
+
+ * Cyril Zipfel's introductory Lecture - `intro_lecture.pptx`
+
 ## Resistance Proteins
 
 Base folder: `resistance_proteins`
