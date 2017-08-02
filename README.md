@@ -4,14 +4,14 @@ This repository contains materials etc for sharing with participants of the summ
 ## Course Handbook
 
   * PDF: `summer_school_2017.pdf`
-  * Web: [link](teammaclean.github.io/summer_school_handbook/index.html)
+  * Web: [link](https://teammaclean.github.io/summer_school_handbook/index.html)
 
 
 ## Introduction
 
 Base folder: `intro`
 
- * Cyril Zipfel's introductory Lecture - `intro_lecture.pptx`
+ * Cyril Zipfel's introductory Lecture - `intro_lecture.pdf`
 
 ## Resistance Proteins
 
@@ -24,9 +24,9 @@ Base folder: `resistance_proteins`
 
 Base folder: `bioinformatics`
 
-  * Dan MacLean's pedagogical lecture - `bioinformatics_pedagogical.pptx`
+  * Dan MacLean's pedagogical lecture - `bioinformatics_pedagogical.pdf`
   * Practical Session handout - `bioinformatics_handout.pdf`
-  * Practical Session web: [link](danmaclean.github.io/summer_school_bioinfo/index.html)
+  * Practical Session web: [link](https://danmaclean.github.io/summer_school_bioinfo/index.html)
   * Ram Krishna's Galaxy Intro - `galaxy_intro.pptx`
 
 ## Effectors and Plant Immunity
