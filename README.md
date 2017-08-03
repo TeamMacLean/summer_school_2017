@@ -33,6 +33,10 @@ Base folder: `bioinformatics`
 
 Base folder: `effectors_immunity`
 
+	* Sophien Kamoun's pedagogical lecture - 
+	* Practical Session handout - `effectors_and_immunity_handout.pdf`
+	* Y2H Presentation - `Y2H.pdf` 
+
 ## Surface Immunity
 
 Base folder: `surface_immunity`
