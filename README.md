@@ -19,6 +19,21 @@ Base folder: `resistance_proteins`
 
   * Jonathan Jones' pedagogical lecture - `resistance_pedagogical.pptx`
   * Jijie Chai's Keynote lecture - `resistance_keynote.pptx`
+  * folder of Albugo theme materials - `albugo`
+    * Summary document - `albugo_summary.docx`
+    * first talk `albugo_talk_1.pptx`
+    * second talk `albugo_talk_2.pptx`
+  * folder of potato-phytophthora theme materials - `potato-phytophthora`
+    * Summary document - `potato-phytophthora_summary.docx`
+    * first talk `potata-phytophthora_talk_1.pdf`
+    * second talk `potato-phytophthora_talk_2.pptx`
+  * folder of RRS1-RPS4 theme materials - `RRS1-RPS4`
+    * Summary document - `RRS1-RPS4_summary.docx`
+    * first talk `pseudomonas_talk_1.pdf` 
+    * second talk `pseudomonas_talk_2.pptx`
+  * folder of Standard Operating Procedures - `sop`
+    * Tobacco infiltration - `ntabacum_agro_infiltration.pdf`
+    * Pseudomonas infiltration - `pseudomonas_infiltration.pdf`
 
 ## Genomic Resources and Bioinformatics
 
