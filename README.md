@@ -77,6 +77,11 @@ Base folder: `cellular_defence`
 
 Base folder: `functional_genomics`
 
+  * Links to:
+    1. [Handout Materials](https://docs.google.com/document/d/19dTUt5jZ9LrXllPnIIkOzRDD9kaG2xGXWymH7ruiOTg/edit?usp=sharing)
+    2. [Virtual Machine](https://www.dropbox.com/s/een7kpveubhma67/TSL%20summer%20school%20Clone.ova?dl=0)
+  * Handout materials - `tutorial_phylogenetics.docx`
+
 ## Proteomics
 
 Base folder: `proteomics`
