@@ -69,9 +69,16 @@ Base folder: `effectors_immunity`
 
 Base folder: `surface_immunity`
 
+  * Cyril Zipfel's pedagogical lecture - `surface_immunity_pedagogical.pptx`
+
 ## Cellular Defence
 
 Base folder: `cellular_defence`
+  * Gildas Bourdais' chemical and genetic interference lecture - `chemical_genetic_interference.pdf`
+  * Michaela Kopischke's plant endomembrane trafficking lecture - `plant_endomembrane trafficking`
+  * Movie - `FLS2-GFP endosomes flg22 90min SP8 group1.avi`
+  * Movie - `FLS2-GFP RFP-ARA7 moving chloroplast mock SP8.avi`
+  * Movie - `FLS2-GFP YFP-ARA7 coloc endosomes flg22 90min SP8 group2.avi`
 
 ## Functional Plant Genomics
 
